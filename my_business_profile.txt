@@ -1,0 +1,7 @@
+BUSINESS IDENTITY: ABC AI
+CORE COMPETENCIES: Python, AI Agent Orchestration, LLM Fine-tuning, RAG Pipelines.
+PAST PROJECTS: 
+- Built an automated inventory predictor for a local retail chain using Llama 3.
+- Developed a custom CRM-integrated chatbot for a Real Estate firm.
+CERTIFICATIONS: BSc (Hons) Software Engineering (Undergraduate), AI Automation Specialist.
+TECH STACK: Groq, Supabase, n8n, CrewAI, Streamlit.
